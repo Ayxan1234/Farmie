@@ -1,0 +1,284 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+
+.anadiv {
+    width: 100%;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+}
+
+.baladiv {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.baladiv img {
+    padding-right: 3rem;
+}
+
+nav ul {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.color {
+    font-size: small;
+    color: green;
+}
+
+.color1 {
+    font-size: small;
+}
+
+.color1:hover {
+    color: green;
+    transition: 0.3s;
+}
+
+i {
+    padding-left: 15px;
+}
+
+i:hover {
+    color: green;
+    transition: 0.3s;
+
+}
+
+.ana {
+    background-image: url("https://preview.colorlib.com/theme/farmie/img/bg-img/1.jpg.webp");
+    width: 100%;
+    height: 550px;
+    display: flex;
+    align-items: center;
+}
+
+.bala {
+    width: 50%;
+    height: 300px;
+    padding: 30px;
+}
+
+h1 {
+    padding-left: 20px;
+    font-size: 45px;
+    color: white;
+}
+
+.p {
+    padding-left: 20px;
+    padding-top: 20px;
+    color: white;
+}
+
+.button1 {
+    width: 135px;
+    height: 40px;
+    background-color: #77b122;
+    color: white;
+    border: none;
+    margin: 30px 20px;
+}
+
+button:hover {
+    background-color: black;
+    transition: 0.5s;
+}
+
+.bala1 img {
+    width: 600px;
+    height: 600px;
+    overflow: hidden;
+
+}
+
+.ana1 {
+    display: flex;
+    justify-content: space-between;
+    margin: 30px 0 0 0;
+}
+
+.bala2 {
+    width: 800px;
+    height: 700px;
+}
+
+h3 {
+    color: grey;
+}
+
+.red {
+    color: #77b122;
+    font-size: 30px;
+}
+
+.set {
+    font-size: 30px;
+}
+
+.lorem {
+    padding-top: 30px;
+    color: gray;
+}
+
+.new {
+    width: 300px;
+    height: 150px;
+    margin: 30px 0 0 0;
+}
+
+.new img {
+    display: flex;
+    justify-content: center;
+}
+
+h2 {
+    display: inline-block;
+}
+
+h2:hover {
+    color: #77b122;
+    transition: 0.5s;
+}
+
+p {
+    padding-top: 20px;
+    color: gray;
+}
+
+.new1 {
+    width: 75%;
+    height: 180px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.head1 {
+    width: 800px;
+    height: 400px;
+}
+
+.head2 {
+    width: 100%;
+    height: 600px;
+    background-image: url("https://preview.colorlib.com/theme/farmie/img/bg-img/8.jpg.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+h1 {
+    font-size: 35px;
+    display: flex;
+    justify-content: center;
+}
+
+.yy {
+    margin: 30px;
+    height: 90px;
+    display: flex;
+    align-items: center;
+}
+
+span {
+    color: white;
+}
+
+.big4{
+    width: 300px;
+    height: 45px;
+    border: none;
+}
+
+.text {
+    margin: 0 auto;
+    width: 50%;
+    position: relative;
+}
+
+.button2 {
+    width: 140px;
+    height: 45px;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    border: none;
+    color: white;
+    background-color: #77b122;
+}
+
+.style {
+    width: 100%;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+.space{
+    width: 80%;
+    height: 500px;
+    margin-top: 30px;
+    margin: 0 auto;
+    display: flex;
+}
+.old1{
+    font-size: 30px;
+    color: #77b122;
+}
+.old{
+    font-size: 30px;
+    color: black;
+}
+input{
+    width: 204px;
+    height: 40px;
+    text-align: center;
+    margin-top: 30px;
+}
+.inputs{
+    width: 40%;
+    height: 300px;
+}
+.big{
+    width: 412px;
+}
+.big5{
+    width: 412px;
+    height: 130px;
+}
+.shape{
+    width: 160px;
+    height: 50px;
+    background-color: #77b122;
+    color: white;
+    border: none;
+    margin-top: 30px;
+}
+.shape:hover{
+    background-color: black;
+}
+iframe{
+    width: 600px;
+    height: 500px;
+}
+.bb{
+    display: flex;
+    gap: 30px;
+}
